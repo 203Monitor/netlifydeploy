@@ -1,1 +1,1 @@
-# netlifydeploy
+# netlify & vercel deploy
